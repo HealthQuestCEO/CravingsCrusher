@@ -1,0 +1,21 @@
+{
+  "gridSize": 4,
+  "squares": [
+    { "id": 1, "label": "Do 10 jumping jacks", "category": "move" },
+    { "id": 2, "label": "Count backwards from 20", "category": "brain" },
+    { "id": 3, "label": "Take 5 deep breaths", "category": "chill" },
+    { "id": 4, "label": "Dance for 30 seconds", "category": "move" },
+    { "id": 5, "label": "Name 5 animals", "category": "brain" },
+    { "id": 6, "label": "Squeeze and release fists", "category": "chill" },
+    { "id": 7, "label": "Run in place", "category": "move" },
+    { "id": 8, "label": "Spell your name backwards", "category": "brain" },
+    { "id": 9, "label": "Hum your favorite song", "category": "chill" },
+    { "id": 10, "label": "Do 5 arm circles", "category": "move" },
+    { "id": 11, "label": "Think of 3 happy memories", "category": "brain" },
+    { "id": 12, "label": "Stretch like a cat", "category": "chill" },
+    { "id": 13, "label": "March like a soldier", "category": "move" },
+    { "id": 14, "label": "Say the alphabet backwards", "category": "brain" },
+    { "id": 15, "label": "Close eyes and listen", "category": "chill" },
+    { "id": 16, "label": "Wiggle every body part", "category": "move" }
+  ]
+}

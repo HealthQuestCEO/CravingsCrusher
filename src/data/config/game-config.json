@@ -1,0 +1,20 @@
+{
+  "gameName": "Craving Crusher",
+  "location": "HealthQuest Hub",
+  "mascot": "alien",
+  "mascotIcon": "👾",
+  "difficulties": {
+    "quick": { "label": "Quick Escape", "icon": "⚡", "duration": 30, "xp": 10, "coins": 5 },
+    "standard": { "label": "Standard Room", "icon": "🏠", "duration": 90, "xp": 25, "coins": 15 },
+    "boss": { "label": "Boss Room", "icon": "👑", "duration": 180, "xp": 50, "coins": 30, "unlockAfter": 3 }
+  },
+  "categories": {
+    "move": { "label": "Move Your Body", "icon": "🏃", "color": "#2eae8f" },
+    "brain": { "label": "Use Your Brain", "icon": "🧠", "color": "#fa8a10" },
+    "chill": { "label": "Chill Out", "icon": "🧘", "color": "#7bcec6" }
+  },
+  "bingo": {
+    "gridSize": 4,
+    "resetDay": "monday"
+  }
+}

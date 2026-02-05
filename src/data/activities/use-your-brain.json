@@ -1,0 +1,68 @@
+{
+  "activities": [
+    {
+      "id": "brain-1",
+      "name": "Word Wizard",
+      "instructions": "Pick a color. Now think of as many things as you can that are that color! Say them out loud. Can you get to 10? You are a word wizard!",
+      "category": "brain",
+      "icon": "🧙",
+      "bingoSquareId": 2
+    },
+    {
+      "id": "brain-2",
+      "name": "Number Crunch",
+      "instructions": "Start at the number 30 and count backwards by 2. Ready? 30, 28, 26... keep going! If you get to zero, try starting at 50. Your brain is a number machine!",
+      "category": "brain",
+      "icon": "🔢",
+      "bingoSquareId": 5
+    },
+    {
+      "id": "brain-3",
+      "name": "Story Time",
+      "instructions": "Make up a silly story! Start with 'Once upon a time, a penguin found a...' and keep going. Make it as funny as you can. Tell it out loud or in your head!",
+      "category": "brain",
+      "icon": "📖",
+      "bingoSquareId": 8
+    },
+    {
+      "id": "brain-4",
+      "name": "Rhyme Time",
+      "instructions": "Pick a word like 'cat.' Now think of as many words that rhyme with it as you can! Hat, bat, mat, sat... When you run out, pick a new word. Go go go!",
+      "category": "brain",
+      "icon": "🎤",
+      "bingoSquareId": 11
+    },
+    {
+      "id": "brain-5",
+      "name": "Puzzle Power",
+      "instructions": "Look around the room. Find 5 things that are square. Now find 5 things that are round. Can you find something shaped like a triangle? You have eagle eyes!",
+      "category": "brain",
+      "icon": "🧩",
+      "bingoSquareId": 14
+    },
+    {
+      "id": "brain-6",
+      "name": "Memory Match",
+      "instructions": "Look around you for 10 seconds. Now close your eyes. Try to name every single thing you saw! Open your eyes and check. How many did you get? Try again!",
+      "category": "brain",
+      "icon": "🃏",
+      "bingoSquareId": 2
+    },
+    {
+      "id": "brain-7",
+      "name": "Tongue Twister",
+      "instructions": "Try to say this 5 times fast: 'Red lorry, yellow lorry!' Now try 'She sells seashells by the seashore.' Can you make up your own tongue twister? So fun!",
+      "category": "brain",
+      "icon": "👅",
+      "bingoSquareId": 5
+    },
+    {
+      "id": "brain-8",
+      "name": "What If?",
+      "instructions": "Use your imagination! What if you could fly? Where would you go? What if animals could talk? What would your pet say? Think of 3 fun 'what ifs' and answer them!",
+      "category": "brain",
+      "icon": "💭",
+      "bingoSquareId": 8
+    }
+  ]
+}

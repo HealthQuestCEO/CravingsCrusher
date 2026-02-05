@@ -1,0 +1,12 @@
+{
+  "facts": [
+    { "id": "science-1", "title": "The 90-Second Rule", "text": "Did you know? Cravings are like ocean waves. They build up, crash, and fade away in about 90 seconds!", "category": "general" },
+    { "id": "science-2", "title": "Brain Trails", "text": "Every time you choose an activity instead of giving in to a craving, your brain builds a new trail. The more you practice, the stronger the trail gets!", "category": "general" },
+    { "id": "science-3", "title": "Dopamine Detective", "text": "Your brain has a helper called dopamine. Moving your body gives your brain the good kind that lasts longer!", "category": "move" },
+    { "id": "science-4", "title": "Puzzle Power", "text": "Here's a cool trick: your brain can't crave AND solve a puzzle at the same time! That's why brain games work!", "category": "brain" },
+    { "id": "science-5", "title": "Calm Body, Calm Mind", "text": "When you take deep breaths, you tell your brain 'everything is okay!' It's like a secret calm-down button!", "category": "chill" },
+    { "id": "science-6", "title": "Everyone Gets Cravings", "text": "Guess what? Everyone gets cravings - kids and grown-ups! It's totally normal. You're learning to ride the wave!", "category": "general" },
+    { "id": "science-7", "title": "Super Brain", "text": "Your brain is like a muscle. The more you practice crushing cravings, the easier it gets. That's called neuroplasticity!", "category": "general" },
+    { "id": "science-8", "title": "Movement Magic", "text": "When you move your body, your brain releases feel-good chemicals. It's like giving your brain a happy hug!", "category": "move" }
+  ]
+}
