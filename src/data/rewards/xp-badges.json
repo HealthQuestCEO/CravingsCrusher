@@ -1,0 +1,21 @@
+{
+  "badges": [
+    { "id": "first-crush", "name": "First Crush", "emoji": "⭐", "description": "Complete your first challenge", "requirement": { "type": "challengesCompleted", "value": 1 } },
+    { "id": "high-five", "name": "High Five", "emoji": "🖐️", "description": "Complete 5 challenges", "requirement": { "type": "challengesCompleted", "value": 5 } },
+    { "id": "perfect-ten", "name": "Perfect Ten", "emoji": "🔟", "description": "Complete 10 challenges", "requirement": { "type": "challengesCompleted", "value": 10 } },
+    { "id": "quarter-century", "name": "Quarter Century", "emoji": "🏅", "description": "Complete 25 challenges", "requirement": { "type": "challengesCompleted", "value": 25 } },
+    { "id": "mover-shaker", "name": "Mover & Shaker", "emoji": "🏃", "description": "Complete 5 Move Your Body activities", "requirement": { "type": "categoryCount", "category": "move", "value": 5 } },
+    { "id": "brain-power", "name": "Brain Power", "emoji": "🧠", "description": "Complete 5 Use Your Brain activities", "requirement": { "type": "categoryCount", "category": "brain", "value": 5 } },
+    { "id": "zen-master", "name": "Zen Master", "emoji": "🧘", "description": "Complete 5 Chill Out activities", "requirement": { "type": "categoryCount", "category": "chill", "value": 5 } },
+    { "id": "bingo-line", "name": "Bingo!", "emoji": "📋", "description": "Complete a line on the bingo board", "requirement": { "type": "bingoLine", "value": 1 } },
+    { "id": "bingo-blackout", "name": "Blackout!", "emoji": "🎉", "description": "Fill the entire bingo board", "requirement": { "type": "bingoBlackout", "value": 1 } },
+    { "id": "boss-beater", "name": "Boss Beater", "emoji": "👑", "description": "Complete a Boss Room challenge", "requirement": { "type": "bossCompleted", "value": 1 } },
+    { "id": "streak-star", "name": "Streak Star", "emoji": "🔥", "description": "Play 3 days in a row", "requirement": { "type": "dayStreak", "value": 3 } },
+    { "id": "munchie-master", "name": "Munchie Master", "emoji": "👾", "description": "Earn all other badges", "requirement": { "type": "allBadges", "value": 11 } }
+  ],
+  "xpRewards": {
+    "quick": { "xp": 10, "coins": 5 },
+    "standard": { "xp": 25, "coins": 15 },
+    "boss": { "xp": 50, "coins": 30 }
+  }
+}

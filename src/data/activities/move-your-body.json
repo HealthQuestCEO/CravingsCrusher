@@ -1,0 +1,68 @@
+{
+  "activities": [
+    {
+      "id": "move-1",
+      "name": "Jump Around",
+      "instructions": "Jump up and down like a kangaroo! Count each jump out loud. Can you get to 20? Try big jumps and tiny jumps!",
+      "category": "move",
+      "icon": "🦘",
+      "bingoSquareId": 1
+    },
+    {
+      "id": "move-2",
+      "name": "Dance Party",
+      "instructions": "Turn on your favorite song in your head and dance! Shake your arms, wiggle your hips, and spin around. You are the best dancer ever!",
+      "category": "move",
+      "icon": "💃",
+      "bingoSquareId": 4
+    },
+    {
+      "id": "move-3",
+      "name": "Stretch It Out",
+      "instructions": "Reach your hands up high to the sky! Now bend down and touch your toes. Reach side to side like a tree in the wind. Do it 5 times!",
+      "category": "move",
+      "icon": "🌳",
+      "bingoSquareId": 7
+    },
+    {
+      "id": "move-4",
+      "name": "Freeze Dance",
+      "instructions": "Dance as fast as you can, then FREEZE like a statue! Hold still for 5 seconds. Now dance again! Do it 5 times. No wobbling when you freeze!",
+      "category": "move",
+      "icon": "🧊",
+      "bingoSquareId": 10
+    },
+    {
+      "id": "move-5",
+      "name": "Animal Walk",
+      "instructions": "Walk around the room like different animals! First, stomp like an elephant. Then hop like a frog. Now slither like a snake. What animal are you next?",
+      "category": "move",
+      "icon": "🐘",
+      "bingoSquareId": 13
+    },
+    {
+      "id": "move-6",
+      "name": "Balloon Pop",
+      "instructions": "Pretend you are blowing up a big balloon. Take a deep breath in and stretch your arms wide. Then POP! Clap your hands and jump! Do it 5 times!",
+      "category": "move",
+      "icon": "🎈",
+      "bingoSquareId": 16
+    },
+    {
+      "id": "move-7",
+      "name": "Super Hero",
+      "instructions": "Stand tall with your hands on your hips like a super hero! Now fly around the room with your arms out. Do 5 super hero poses. You are SO strong!",
+      "category": "move",
+      "icon": "🦸",
+      "bingoSquareId": 1
+    },
+    {
+      "id": "move-8",
+      "name": "Ninja Moves",
+      "instructions": "Move like a quiet ninja! Tiptoe across the room. Do a slow-motion kick. Try a ninja spin. Can you balance on one foot for 10 seconds? You are a ninja master!",
+      "category": "move",
+      "icon": "🥷",
+      "bingoSquareId": 4
+    }
+  ]
+}

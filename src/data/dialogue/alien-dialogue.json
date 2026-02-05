@@ -1,0 +1,35 @@
+{
+  "speaker": "alien",
+  "icon": "👾",
+  "welcomeLines": [
+    "Hey there, superstar! Ready to crush some cravings?",
+    "Welcome back! Your brain is getting stronger every time!",
+    "I spy a craving crusher! Let's play!",
+    "You showed up, and that's already awesome!",
+    "Ready for an adventure? Let's go!"
+  ],
+  "encouragement": [
+    "You're doing amazing! Keep going!",
+    "Your brain is building new trails right now!",
+    "Almost there, superstar!",
+    "You've got this! Stay strong!",
+    "Wow, look at you go!"
+  ],
+  "victory": [
+    "You crushed it! The Munchie Monster didn't stand a chance!",
+    "Amazing job! Your brain just got even stronger!",
+    "You did it! That craving wave crashed and you rode it out!",
+    "Superstar! You're a real craving crusher!"
+  ],
+  "timeUp": [
+    "Nice try! Your brain got stronger just by playing!",
+    "The Munchie Monster got away this time, but you'll get it next time!",
+    "Great effort! Every try makes you stronger!",
+    "You gave it your best, and that's what counts!"
+  ],
+  "monsterIntro": {
+    "quick": "A tiny Munchie Monster appeared! You can handle this!",
+    "standard": "A Munchie Monster is here! Time to show it who's boss!",
+    "boss": "Whoa! A BOSS Munchie Monster! This is gonna be epic!"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "activities": [
+    {
+      "id": "chill-1",
+      "name": "Deep Breaths",
+      "instructions": "Breathe in slowly through your nose for 4 seconds. Hold it for 2 seconds. Now breathe out through your mouth for 4 seconds. Do this 5 times. Feel how calm you are!",
+      "category": "chill",
+      "icon": "🌬️",
+      "bingoSquareId": 3
+    },
+    {
+      "id": "chill-2",
+      "name": "Cloud Watch",
+      "instructions": "Close your eyes and picture a blue sky. Imagine fluffy clouds floating by. Each cloud carries a worry away. Watch them drift until the sky is clear and calm.",
+      "category": "chill",
+      "icon": "☁️",
+      "bingoSquareId": 6
+    },
+    {
+      "id": "chill-3",
+      "name": "Belly Breathing",
+      "instructions": "Put your hand on your belly. Breathe in deep and feel your belly push your hand out like a balloon. Now breathe out and feel it go flat. Do it 8 times. So relaxing!",
+      "category": "chill",
+      "icon": "🎈",
+      "bingoSquareId": 9
+    },
+    {
+      "id": "chill-4",
+      "name": "Muscle Melt",
+      "instructions": "Squeeze your fists really tight for 5 seconds. Now let go and feel them relax. Do the same with your shoulders - scrunch them up, then drop them. Try your whole body!",
+      "category": "chill",
+      "icon": "🫠",
+      "bingoSquareId": 12
+    },
+    {
+      "id": "chill-5",
+      "name": "Happy Place",
+      "instructions": "Close your eyes. Think of your favorite place in the whole world. The beach? A fort? Grandma's house? Picture what you see, hear, and smell there. Stay for one minute!",
+      "category": "chill",
+      "icon": "🏖️",
+      "bingoSquareId": 15
+    },
+    {
+      "id": "chill-6",
+      "name": "Rainbow Calm",
+      "instructions": "Look around the room and find something red. Now orange. Then yellow, green, blue, and purple. Take a slow breath between each color. You just made a calm rainbow!",
+      "category": "chill",
+      "icon": "🌈",
+      "bingoSquareId": 3
+    },
+    {
+      "id": "chill-7",
+      "name": "Body Scan",
+      "instructions": "Close your eyes. Think about your toes. Are they relaxed? Now think about your legs, your belly, your arms, your face. Relax each part one by one. You are a melting ice cream!",
+      "category": "chill",
+      "icon": "🍦",
+      "bingoSquareId": 6
+    },
+    {
+      "id": "chill-8",
+      "name": "Quiet Hands",
+      "instructions": "Put your hands on the table. Feel how cool and smooth it is. Now feel something soft, like your shirt. Notice the difference. Try 3 more things. You are a texture detective!",
+      "category": "chill",
+      "icon": "🤲",
+      "bingoSquareId": 9
+    }
+  ]
+}

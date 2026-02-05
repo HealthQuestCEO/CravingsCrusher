@@ -1,0 +1,28 @@
+{
+  "segments": [
+    { "id": 1, "activityId": "move-1", "label": "Jump Around", "category": "move" },
+    { "id": 2, "activityId": "brain-1", "label": "Word Wizard", "category": "brain" },
+    { "id": 3, "activityId": "chill-1", "label": "Deep Breaths", "category": "chill" },
+    { "id": 4, "activityId": "move-2", "label": "Dance Party", "category": "move" },
+    { "id": 5, "activityId": "brain-2", "label": "Number Crunch", "category": "brain" },
+    { "id": 6, "activityId": "chill-2", "label": "Cloud Watch", "category": "chill" },
+    { "id": 7, "activityId": "move-3", "label": "Stretch It Out", "category": "move" },
+    { "id": 8, "activityId": "brain-3", "label": "Story Time", "category": "brain" },
+    { "id": 9, "activityId": "chill-3", "label": "Belly Breathing", "category": "chill" },
+    { "id": 10, "activityId": "move-4", "label": "Freeze Dance", "category": "move" },
+    { "id": 11, "activityId": "brain-4", "label": "Rhyme Time", "category": "brain" },
+    { "id": 12, "activityId": "chill-4", "label": "Muscle Melt", "category": "chill" },
+    { "id": 13, "activityId": "move-5", "label": "Animal Walk", "category": "move" },
+    { "id": 14, "activityId": "brain-5", "label": "Puzzle Power", "category": "brain" },
+    { "id": 15, "activityId": "chill-5", "label": "Happy Place", "category": "chill" },
+    { "id": 16, "activityId": "move-6", "label": "Balloon Pop", "category": "move" },
+    { "id": 17, "activityId": "brain-6", "label": "Memory Match", "category": "brain" },
+    { "id": 18, "activityId": "chill-6", "label": "Rainbow Calm", "category": "chill" },
+    { "id": 19, "activityId": "move-7", "label": "Super Hero", "category": "move" },
+    { "id": 20, "activityId": "brain-7", "label": "Tongue Twister", "category": "brain" },
+    { "id": 21, "activityId": "chill-7", "label": "Body Scan", "category": "chill" },
+    { "id": 22, "activityId": "move-8", "label": "Ninja Moves", "category": "move" },
+    { "id": 23, "activityId": "brain-8", "label": "What If?", "category": "brain" },
+    { "id": 24, "activityId": "chill-8", "label": "Quiet Hands", "category": "chill" }
+  ]
+}
