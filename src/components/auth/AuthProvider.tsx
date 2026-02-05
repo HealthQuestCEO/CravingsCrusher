@@ -1,6 +1,6 @@
 import { createContext, useState, useEffect, useCallback, type ReactNode } from 'react';
 import { onAuthStateChanged, signInWithPopup, signOut as firebaseSignOut } from 'firebase/auth';
-import { auth, googleProvider } from '../../lib/firebase';
+import { auth, googleProvider, isConfigured } from '../../lib/firebase';
 import type { AuthContextValue, User } from '../../types/auth';
 import { trackEvent } from '../../lib/analytics';
 
@@ -8,10 +8,15 @@ export const AuthContext = createContext<AuthContextValue | null>(null);
 
 export function AuthProvider({ children }: { children: ReactNode }) {
   const [user, setUser] = useState<User | null>(null);
-  const [loading, setLoading] = useState(true);
-  const [isGuest, setIsGuest] = useState(false);
+  const [loading, setLoading] = useState(isConfigured);
+  const [isGuest, setIsGuest] = useState(!isConfigured);
 
   useEffect(() => {
+    if (!auth) {
+      setLoading(false);
+      setIsGuest(true);
+      return;
+    }
     const unsubscribe = onAuthStateChanged(auth, (firebaseUser) => {
       if (firebaseUser) {
         setUser({
@@ -30,6 +35,10 @@ export function AuthProvider({ children }: { children: ReactNode }) {
   }, []);
 
   const signInWithGoogle = useCallback(async () => {
+    if (!auth || !googleProvider) {
+      console.warn('Firebase not configured');
+      return;
+    }
     try {
       await signInWithPopup(auth, googleProvider);
       trackEvent({ event: 'auth_sign_in', method: 'google' });
@@ -39,6 +48,7 @@ export function AuthProvider({ children }: { children: ReactNode }) {
   }, []);
 
   const signOut = useCallback(async () => {
+    if (!auth) return;
     try {
       await firebaseSignOut(auth);
       setUser(null);
